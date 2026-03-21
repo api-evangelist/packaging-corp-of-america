@@ -1,0 +1,7 @@
+aid: packaging-corp-of-america
+url: https://raw.githubusercontent.com/api-evangelist/packaging-corp-of-america/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.packaging-corp-of-america.com
