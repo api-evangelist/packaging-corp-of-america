@@ -1,5 +1,5 @@
-# Packaging Corp. of America (packaging-corp-of-america)
-Packaging Corp. of America is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Packaging Corp. of America.
+# Packaging Corporation of America (packaging-corp-of-america)
+Packaging Corporation of America (PCA) is the third largest producer of containerboard and corrugated packaging products in the United States, supplying packaging to food, beverage, and industrial customers. This repository captures the APIs, developer tools, and machine-readable API artifacts for Packaging Corporation of America.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/packaging-corp-of-america/refs/heads/main/apis.yml)
 
@@ -11,12 +11,12 @@ Packaging Corp. of America is a Fortune 500 company. This repository captures th
 
 ## Tags:
 
- - Fortune 500
+ - Packaging, Containerboard, Corrugated Packaging, Manufacturing, Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,7 +24,7 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.packaging-corp-of-america.com)
+- [Website](https://www.packagingcorp.com)
 
 ## Maintainers
 
