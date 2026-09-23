@@ -1,7 +1,9 @@
 ---
 title: Packaging Corp of America schedules Q1 2026 earnings call
 url: https://intellectia.ai/news/monitor/packaging-corp-of-america-schedules-q1-2026-earnings-call
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Packaging Corp. of America" press release artificial intelligence'
 position: 3
 source: serpapi-google
